@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/mark.svg" alt="" width="96" height="96">
+
 # WebFluent Studio
 
 ### Write it. See it. Ship it. In one window.
